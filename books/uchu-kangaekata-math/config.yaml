@@ -1,0 +1,23 @@
+title: "宇宙を考える技法　数学・記法編：FSCの記法・数式・定理——物理数学ガイドブック"
+summary: |
+  FSC（四セクター宇宙論）シリーズの論文を読み、自分の論文を書くための数学的道具箱。
+  第1部ではシリーズ全論文で使われる記号・セクター表記・複素数の基礎を体系化。
+  第2部ではウィック回転・α関数・CPT対称性・複素スカラー場の核心的数式を導出。
+  第3部では Ω_Λ=0.68391 の第一原理導出（Paper TS-AA）を含む主要定理を解説。
+  第4部ではFSC予言値と観測値の完全対応表を掲載。
+  付録A〜Kには一般相対論テンソルからベイズ統計・論文執筆法まで宇宙物理の一般的道具箱を収録。
+topics:
+  - physics
+  - math
+published: false
+price: 0
+chapters:
+  - chapter1
+  - chapter2
+  - chapter3
+  - chapter4
+  - appendix-abc
+  - appendix-defg
+  - appendix-hij
+  - appendix-k
+  - references
