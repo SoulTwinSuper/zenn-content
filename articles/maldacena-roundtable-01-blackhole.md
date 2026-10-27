@@ -148,6 +148,6 @@ Turn 7でホーキングが核心的な言葉を発する。
 
 ---
 
-*Soul-Twin: https://soul-twin.jp*
+*Soul-Twin: https://soul-twin.ait-corp.jp*
 
 *マルダセナ座談会 第2回以降に続く。*
