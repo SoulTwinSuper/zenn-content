@@ -120,4 +120,4 @@ V1〜V3 は反証できますが、**ΛCDM も同じことを言います**。�
 
 ---
 
-*Soul-Twin: https://soul-twin.jp*
+*Soul-Twin: https://soul-twin.ait-corp.jp*
